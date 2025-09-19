@@ -22,3 +22,4 @@ Applications This task has multiple real-world applications: Weather Apps: The l
 
 OUTPUT:
 
+<img width="1076" height="480" alt="Image" src="https://github.com/user-attachments/assets/b4585339-2a26-4469-8b9d-3e3d164de3e2" />
